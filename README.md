@@ -7,14 +7,14 @@ This contains answer to following hometask:
 5. Every 10 seconds print the result of Q4 and the absolute delta from the previous value for each symbol.
 6. Make the output of Q5 accessible by querying http://localhost:8080/metrics using the Prometheus Metrics format.
 
-#Pre-requisite:
+# Pre-requisite:
 
 pip install prometheus_client
 pip install pandas  
 pip install binance-connector
 
-#Usage
+# Usage
 python3 client.py
 
-#TO-Do
+# TO-Do
 Unit-test
