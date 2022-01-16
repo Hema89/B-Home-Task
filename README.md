@@ -16,7 +16,7 @@ pip install pandas
 pip install binance-connector
 
 # Usage
-python3 client.py
+python3 main.py
 
 # TO-Do
 Unit-test
