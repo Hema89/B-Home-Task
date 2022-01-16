@@ -10,7 +10,9 @@ This contains answer to following hometask:
 # Pre-requisite:
 
 pip install prometheus_client
+
 pip install pandas  
+
 pip install binance-connector
 
 # Usage
